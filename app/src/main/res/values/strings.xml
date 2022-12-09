@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Boton1">Ordene Su Pedido#1</string>
+    <string name="Boton2">Ordene Su Pedido#2</string>
+    <string name="Boton3">Ordene Su Pedido#3</string>
+    <string name="Boton4">Ordene Su Pedido#4</string>
+    <string name="Boton5">Ordene Su Pedido#5</string>
+    <string name="Boton6">Ordene Su Pedido#6</string>
+    <string name="Boton7">Ordene Su Pedido#7</string>
+    <string name="txt1">Atención De Pedidos</string>
+    <string name="Botoncerrar">Cerrar</string>
+    <string name="txt2">Listo Su Pedido Ya Esta Haciendo Atendido Espera Unos Minutos Por Favor</string>
+    <string name="Boton8">espera</string>
+
+
+
+
+</resources>
